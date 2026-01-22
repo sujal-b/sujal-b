@@ -8,7 +8,7 @@ Currently in my 3rd year of CSE Engineering. Curious in learning more about Deep
 
 * 🌍  I'm based in Mumbai
 * ✉️  You can contact me at [sujal.barwad27@gmail.com](mailto:sujal.barwad27@gmail.com)
-* 🚀  I'm currently working on [DataCraft Studio](http://github.com/sujal-b/datacraft-studio)
+* 🚀  I'm currently working on [GIST AutoEncoder](https://github.com/sujal-b/Discrete-GIST-AutoEncoder)
 * 🧠  I'm currently learning ML Algorithm
 
 <p align="left">
