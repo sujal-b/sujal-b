@@ -1,7 +1,7 @@
 👉[Sujal Barwad](http://sujal-barwad.vercel.app) 👈
 =====================================================================================================================================
 
-Data Science and AI/ML
+Data Science & AI/ML
 ---------------------------------
 
 Currently in my 3rd year of CSE Engineering. Curious in learning more about Deep Learning and Neural Network. Bridging the gap between Data Science and Machine Learning.
