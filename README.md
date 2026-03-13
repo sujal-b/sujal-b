@@ -4,7 +4,7 @@
 Data Science & AI/ML
 ---------------------------------
 
-Currently in my 3rd year of CSE Engineering. Curious in learning more about Deep Learning and Neural Network. Bridging the gap between Data Science and Machine Learning.
+Currently in my 3rd year of CSE Engineering. Curious in learning more about Deep Learning and Neural Network. Bridging the gap between Data Science and Machine Learning. 
 
 * 🌍  I'm based in Mumbai
 * ✉️  You can contact me at [sujal.barwad27@gmail.com](mailto:sujal.barwad27@gmail.com)
