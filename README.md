@@ -13,9 +13,9 @@ I am authoring a research paper on a novel **Spherical Vector Quantizer** that t
 ### 🛠 Selected Projects
 | Project | Domain | Key Tech |
 | :--- | :--- | :--- |
-| **DGE-RAG** | Research / NLP | PyTorch, Vector Quantization, Python |
-| **CI/CD Data Cleaner** | MLOps | AI-Integrated Pipelines, GitHub Actions |
-| **BioVisuals** | Applied AI | py3dmol, LLM APIs, Molecular Biology |
+| **DGE-RAG** | Research / NLP | PyTorch, Vector Quantization, Python, Azure |
+| **CI/CD Data Cleaner** | MLOps | AI-Integrated Pipelines, Semi-Automation, Celery, Redis, Docker |
+| **BioVisuals** | Applied AI | py3dmol, LLM APIs, Molecular Biology, FastAPI |
 
 ---
 
@@ -23,6 +23,7 @@ I am authoring a research paper on a novel **Spherical Vector Quantizer** that t
 * **Google Solution Challenge 2026** (Participant/Lead)
 * **AISEHack 2025** (Developing scalable AI solutions)
 * **CSI Sankalp Ideathon** (Architectural Innovation)
+* **DATATHON** (Code to Cost)
 
 ---
 
